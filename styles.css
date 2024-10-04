@@ -1,0 +1,22 @@
+body{
+    
+    background: linear-gradient(rgb(43, 84, 173), rgb(165, 165, 211));
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    padding: 2.5em; font-family: 'Press Start 2P', 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: black;
+}
+p{
+    padding: 5.0em;font-size: 1.2em;
+    border: 5px solid;
+    border-color: black;
+}
+a{
+    color: black;
+}
+#button1 { 
+    background-color: black;
+    color: white;
+}
